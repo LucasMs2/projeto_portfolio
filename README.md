@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" src="./images/print_projeto.png">
+  <img alt="Preview" src="https://user-images.githubusercontent.com/126428828/223598161-bc963212-a794-4619-a1db-51cd2c462e25.png">
 </p>
 
 <br>
